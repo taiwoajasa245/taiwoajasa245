@@ -1,4 +1,4 @@
- <img width="1834" alt="Make your README" src="https://github.com/taiwoajasa245/taiwoajasa245/assets/68128807/4865d6aa-4669-43c1-9cf1-5591098c85df">
+ <!-- <img width="1834" alt="Make your README" src="https://github.com/taiwoajasa245/taiwoajasa245/assets/68128807/4865d6aa-4669-43c1-9cf1-5591098c85df"> -->
 
 # <p align="center">Hello, Welcome Back 👋</p>
 
