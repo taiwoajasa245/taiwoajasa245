@@ -7,7 +7,7 @@
 ##### . 👋 Hi, I’m Ajasa Taiwo
 ##### . 🌱 I’m currently into cybersecurity 
 ##### . 📫 I'm currently working on Javascript
-##### . 📫 How to reach me ajasataiwo45@gmail.com
+##### . 📫 How to reach me: ajasataiwo45@gmail.com
 <br />
 </p>
 
@@ -26,6 +26,7 @@
 - CSS     ![CSS Badge](https://img.shields.io/badge/CSS-Intermediate-blue)
 - JavaScript ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 - Python ![Python Badge](https://img.shields.io/badge/Python-Beginner-brightgreen)
+- Dart
 
 <br /> 
 
@@ -36,8 +37,9 @@
 ## 🏫 Currently learning
 
 - 🌱 Javascript (serious love/hate relationship)
-- ⚒  React 
-
+- ⚒  React
+- Flutter
+- 
 <br /> 
 
 ## 🌍 Socials 
