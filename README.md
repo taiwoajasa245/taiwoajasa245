@@ -1,9 +1,10 @@
 
-![Dash](prettylights.gif)
+![Dash](dashatar-dash.adf03c5e3c90d4e867f7116a3a331ba1.png)
 
-# Hi, I'm Taiwo 
+# Hi, I'm Taiwo 👋
 
-# 💫 About Me:
+
+## 💫 About Me:
 👋 Hi, I’m Ajasa Taiwo<br>👯 I’m looking to collaborate on any flutter and Go project<br>🌱 I’m currently learning Golang for Backend <br>💬 Ask me about Anything Coding and non Coding <br>⚡ Fun fact about me, i love to Code 👨‍💻 <br> 📫 How to reach me: ajasataiwo45@gmail.com
 
 
